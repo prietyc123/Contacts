@@ -1,7 +1,7 @@
 #Download files from google contact
 # Python Code
 
-# Prerequisite before execution
+# Prerequisite
 1. Python editor
 2. Install packages (google-api-python-client, apiclient, oauth2client)
 3. Run (pip install packagename) to install the above mentioned package in command prompt
