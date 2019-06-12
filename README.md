@@ -11,7 +11,7 @@
 # Execution Steps
 1. Place cliend_secret.json file to the same directory where main.py and auth.py file is placed.
 2. Run main.py file.
-3. It will redirect to google drive page.Select pk4084602@gmail.com and Enter 8908867856pri as password.
+3. It will redirect to google drive page.Select pk4084602@gmail.com and Enter password if required(it will be shared in mail).
 4. Click on allow.If unverified error comes up then click on advance->google api(at the bottom)->allow.
 5. It will download one file "Flower.jpeg"
 
